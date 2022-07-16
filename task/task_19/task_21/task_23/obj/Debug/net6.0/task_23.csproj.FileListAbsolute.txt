@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\bin\Debug\net6.0\task_23.exe
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\bin\Debug\net6.0\task_23.deps.json
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\bin\Debug\net6.0\task_23.runtimeconfig.json
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\bin\Debug\net6.0\task_23.dll
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\bin\Debug\net6.0\task_23.pdb
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.AssemblyInfo.cs
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.dll
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\refint\task_23.dll
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.pdb
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\task_23.genruntimeconfig.cache
+C:\Users\PC\Desktop\DZ_seminar3\task\task_19\task_21\task_23\obj\Debug\net6.0\ref\task_23.dll
