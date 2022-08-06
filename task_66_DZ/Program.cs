@@ -1,6 +1,6 @@
-﻿namespace Homework_9
+﻿namespace Task66
 {
-    public class task_66
+    public class Program
     // Задайте значения M и N. Напишите программу,
     // которая найдёт сумму натуральных элементов в промежутке от M до N
     // M = 1; N = 15 -> 120
